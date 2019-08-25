@@ -23,13 +23,13 @@ kramdown:
 JB :
   IMAGE_PATH : http://coolshell.info/images
 
-# presonal config
-domain: http://coolshell.info
-title: Lippi-浮生志
-description: Draw my life with code
-author: Lippi.OuYang
-email: ouyanglip@gmail.com
-github: LippiOuYang
+# personal config
+domain: http://shinmiao.info
+title: Shin, the beginning
+description: dance with code
+author: Shin.Miao
+email: miao_zi_xin@163.com
+github: ShinMiao
 
 config:
   js_dir:
